@@ -1,7 +1,7 @@
 # Метаданные для gamedev-hub. Хаб читает этот файл из main и показывает на дашборде.
 # phase: idea | prototype | vertical-slice | content | polish | released | paused | archived
-name: Last H!t
-tagline: Добивать крипов, будучи полководцем на поле боя: за ласт-хиты прокачиваешь армию или себя, выиграть одно сражение а-ля 2048
+name: "Last H!t"
+tagline: "Добивать крипов, будучи полководцем на поле боя: за ласт-хиты прокачиваешь армию или себя, выиграть одно сражение а-ля 2048"
 engine: Godot 4.4
 phase: idea
 tracker: github-issues
